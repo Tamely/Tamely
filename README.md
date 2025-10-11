@@ -53,6 +53,7 @@ When I’m not coding, you can probably find me at the track 🏎️
 ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge\&logo=json&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge\&logo=lua&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=for-the-badge\&logo=apple&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia&logoColor=fff)
 
 #### Tools & Environments
 
@@ -81,6 +82,7 @@ When I’m not coding, you can probably find me at the track 🏎️
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge\&logo=openapiinitiative&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=archlinux\&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge\&logo=debian\&logoColor=white)
@@ -93,4 +95,4 @@ When I’m not coding, you can probably find me at the track 🏎️
 ### Contact
 
 ![Discord](https://img.shields.io/badge/Tamely-%235865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Joshua_Audia-0A66C2?style=for-the-badge\&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joshua-audia)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Joshua_Audia-0A66C2?style=for-the-badge\&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joshuaaudia)
