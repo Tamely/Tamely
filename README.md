@@ -11,6 +11,17 @@
   />
   <img align="right" alt="GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Tamely&include_all_commits=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=f5c2e7&title_color=89b4fa">
 </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Tamely&langs_count=10&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=f5c2e7&title_color=89b4fa"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Tamely&langs_count=10&hide_border=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=ea76cb"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="right" alt="WakaTime Stats" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tamely&langs_count=10&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=f5c2e7&title_color=89b4fa">
+</picture>
 
 ---
 
@@ -22,6 +33,13 @@ I love building tools that empower others to express themselves and push the lim
 When I’m not coding, you can probably find me at the track 🏎️
 
 > *“In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”*
+
+---
+
+### Contact
+
+![Discord](https://img.shields.io/badge/Tamely-%235865F2?style=for-the-badge\&logo=discord\&logoColor=white)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Joshua_Audia-0A66C2?style=for-the-badge\&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joshuaaudia)
 
 ---
 
@@ -90,10 +108,3 @@ When I’m not coding, you can probably find me at the track 🏎️
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira&logoColor=fff)
-
----
-
-### Contact
-
-![Discord](https://img.shields.io/badge/Tamely-%235865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Joshua_Audia-0A66C2?style=for-the-badge\&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joshuaaudia)
