@@ -28,7 +28,7 @@
 I'm **Joshua Audia**, a software engineer, systems developer, and game technology enthusiast.
 I’m best known as the developer of **[Saturn Swapper](https://github.com/Tamely/SaturnSwapper)**, one of the largest Unreal Engine modding platforms with a community of over **100,000 users**, and **[Wraith Engine](https://github.com/Tamely/WraithEngine)**, a lightweight 2D C++ game engine.
 
-I love building tools that empower others to express themselves and push the limits of what’s possible in platforms, games, and systems (whether it’s proxying network layers, patching Unreal Engine assets, or designing secure backend systems in **Java Spring Boot** and **Rust**).
+I love building tools that empower others to express themselves and push the limits of what’s possible in platforms, games, and systems (whether it’s proxying network layers, patching Unreal Engine assets, designing secure backend systems in **Java Spring Boot** and **Jersey**, or building platforms with **C++** and **Rust**).
 
 When I’m not coding, you can probably find me at the track 🏎️
 
@@ -45,12 +45,12 @@ When I’m not coding, you can probably find me at the track 🏎️
 
 ### What I Work On
 
-* **Wraith Engine** – custom 2D game engine with multiplayer support
+* **Wraith Engine** – Custom 2D game engine with multiplayer support
 * **Saturn Swapper** – Unreal Engine modding platform
-* **[Reality](http://realityfn.org)** – The most technically demanding Fortnite project ever created (custom map, cosmetics, backend, XMPP server, dedicated game server, etc).
-* **Reverse engineering Unreal Engine internals** (asset formats, manifests, etc.)
-* **Java Spring Boot backends** – file storage, CDN, and profile systems
-* **Rust & C# tooling** – asset patchers, manifest downloaders, and verifiers for UE
+* **[Reality](http://realityfn.org)** – The most technically demanding Fortnite project ever created (custom map, cosmetics, backend, XMPP server, dedicated game server, etc.)
+* **Reverse engineering Unreal Engine internals** (Asset formats, manifests, etc.)
+* **Java Spring Boot backends** – File storage, CDN, and profile systems
+* **Rust & C# tooling** – Asset patchers, manifest downloaders, and verifiers for UE
 * **Network security testing** – FiddlerCore proxy, WireShark, and Burp Suite for API inspection
 
 ---
