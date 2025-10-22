@@ -2,7 +2,7 @@
 
 Student, game dev, and low-level systems enjoyer. I build game engines, game servers, mess around with cryptography, and do independent security research for Epic Games and Riot Games. I'm always experimenting and always shipping. Hit me up if you’re working on cool stuff!
 
-Check out my [game engine](https://github.com/Tamely/WraithEngine) 🎮.
+Check out my [game engine](https://github.com/Tamely/WraithEngine) 🎮
 
 Low-Level & Game Development:
 <p align="center">
@@ -12,7 +12,7 @@ Low-Level & Game Development:
 </p>
 <br/>
 
-Backend, Cloud, & Dev-Ops:
+Backend, Cloud, & DevOps:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,java,spring,go,python,nodejs,mongodb,docker,kubernetes,git,aws,gcp,cloudflare" />
