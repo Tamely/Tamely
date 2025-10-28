@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Josh (aka Tamely)
 
-Student, game dev, and low-level systems enjoyer. I build game engines, game servers, mess around with cryptography, and do independent security research for Epic Games and Riot Games. I'm always experimenting and always shipping. Hit me up if you’re working on cool stuff!
+Software Engineer at Roblox, game dev, and low-level systems enjoyer. I build game engines, game servers, mess around with cryptography, and used to do independent security research for Epic Games and Riot Games. I'm always experimenting and always shipping. Hit me up if you’re working on cool stuff!
 
 Check out my [game engine](https://github.com/Tamely/WraithEngine) 🎮
 
