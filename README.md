@@ -29,8 +29,8 @@ Frontend & Tooling:
 <br/>
 
 - 😄 I'm known for [Saturn (Unreal Engine asset tooling platform with 100k+ users)](https://github.com/Tamely/SaturnSwapper/)
-- 🔭 I’m currently working on [Wraith Engine](https://github.com/Tamely/WraithEngine)
-- 🌱 I’m currently learning Vulkan
+- 🔭 I’m currently working on [Wraith Engine](https://github.com/Tamely/WraithEngine) – a distributed C++/Vulkan game engine with a WebRTC collaborative browser editor
+- 🌱 I’m currently expanding the headless Vulkan backend and WebRTC streaming for Wraith Engine
 - 🤔 I’m looking for help with [Weave (Wraith's Node-Based Material Editor)](https://github.com/Tamely/WraithEngine)
 - 💬 Ask me about Engine Architecture/Rendering/Networking/Asset Serialization
 - 📫 How to reach me: [@joshuaaudia on LinkedIn](https://www.linkedin.com/in/joshuaaudia/)
@@ -53,12 +53,12 @@ Frontend & Tooling:
   <summary>More Info ✨</summary>
   
 **What I'm Building:**
-- [Wraith Engine](https://github.com/Tamely/Wraith-Engine) – A game engine focused on making developing games more accessible.
+- [Wraith Engine](https://github.com/Tamely/Wraith-Engine) – A distributed game engine that offloads rendering to the cloud via a headless C++/Vulkan renderer, streaming the viewport to a collaborative React/Next.js browser client via WebRTC. 
 - [Reality](https://github.com/FortniteReality) – A 1:1 reverse-engineered authoritative dedicated game server, backend, and XMPP server for Fortnite with completely custom content.
 - [ASMTetris](https://gist.github.com/Tamely/97f6a18c20d384b954bfb60e55ee23f8) – Games built with 32 bit x86 ASM to understand them on an instruction level.
 
 **Notable Experiments:**
-- Built a game engine from scratch.
+- Built an open-source, distributed cloud game engine from scratch featuring real-time collaborative editing, an authoritative C++ server, and session-wide Jolt physics simulation.
 - Reverse Engineered and recreated a real-time authoritative game server, XMPP server, and backend.
 - Created an Unreal Engine asset tooling platform with over 100k+ users by reverse engineering Unreal Engine asset serialization for both open and closed source engine forks.
 - Built a proxy with FiddlerCore to intercept, modify, and analyze Fortnite, VALORANT, and Marvel Rivals API traffic for research purposes.
@@ -66,7 +66,7 @@ Frontend & Tooling:
 
 **Tech I Like:**
 - 🧠 Low-level systems – C/C++, Rust, Assembly, memory management, and serialization.
-- 🎮 Game development – Unreal Engine, Roblox Studio, custom engines, tooling, real-time networking, and rendering pipelines.
+- 🎮 Game development – Unreal Engine, Roblox Studio, custom engines, real-time networking, WebRTC streaming, and Vulkan rendering pipelines.
 - 🌐 Backend engineering – Java Spring Boot, Jersey, Node.js, REST/XMPP APIs, reverse proxies.
 - ☁️ Cloud & DevOps – Docker, Kubernetes, AWS, Cloudflare, GCP.
 - 🧰 Reverse engineering & security research – static/dynamic analysis, disassembly, and protocol inspection.
